@@ -23,7 +23,7 @@ install.packages('devtools')
 install.packages('shiny')
 library('shiny')
 library('devtools')
-devtools::install_github("madhava20217/wiseR-dbn")
+devtools::install_github("tavlab-iiitd/wiseR2.0")
 wiseR::wiser()
 ```
 A browser window should open up running the wiseR interface. 
